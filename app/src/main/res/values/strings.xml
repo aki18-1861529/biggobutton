@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Big Go Button</string>
+    <string name="button_message">Push Me!</string>
+    <string name="first_click">You have pushed me 1 time!</string>
+</resources>

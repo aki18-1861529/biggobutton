@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="PushMeButton">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:backgroundTint">#00FF00</item>
+        <item name="android:insetTop">0dp</item>
+        <item name="android:insetBottom">0dp</item>
+        <item name="android:textSize">40dp</item>
+        <item name="android:textColor">#FF0000</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+</resources>
